@@ -12,7 +12,8 @@ Projeto desenvolvido para a disciplina de Fábrica de Software, com o objetivo d
 
 ## 📋 Pré-requisitos
 
-- Python 3.x
+- Python 3.14.3
 - PostgreSQL instalado e rodando
 - pip
+
 
