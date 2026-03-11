@@ -1,6 +1,6 @@
 # 🏭 Projeto Nivelamento - Fábrica de Software
 
-Projeto desenvolvido para a disciplina de Fábrica de Software, com o objetivo de [descreva brevemente o que o projeto faz].
+Projeto desenvolvido para a disciplina de Fábrica de Software, com o objetivo de nivelar o conhecimento dos alunos da turma, para mapear os demais projetos que irão ocorrer no semestre.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -15,3 +15,4 @@ Projeto desenvolvido para a disciplina de Fábrica de Software, com o objetivo d
 - Python 3.x
 - PostgreSQL instalado e rodando
 - pip
+
